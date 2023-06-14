@@ -29,5 +29,5 @@ You can find API documentation [here](https://docs.google.com/document/d/1_GwAjY
   - Execute git clone [ProjectURL]
 - Running the tests in Jmeter:
   - Open file (functional  tests.jmx) in Jmeter
-  - Open View Results Tree and star run collection 
+  - Open View Results Tree and start run collection 
   <img src="https://github.com/Marusha-Korda/Qauto/blob/main/Run%20collection.png" width="792" height="440">
