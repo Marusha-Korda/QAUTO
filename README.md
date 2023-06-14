@@ -18,6 +18,8 @@ While running the tests, I found two bugs in _Creating new car _  (Response code
 
 <img src="https://github.com/Marusha-Korda/Qauto/blob/main/Response%20message.png" width="792" height="440">
 
+You can find API documentation [here](https://docs.google.com/document/d/1_GwAjYmz1jbiwA1T7jJFHr3rykg7Kx_tn7YkcDyGNJU/edit?usp=sharing)
+
 # Setup Functional tests in Jmeter
 - Clone this repository:
   - Navigate to https://github.com/Marusha-Korda/Qauto.git
